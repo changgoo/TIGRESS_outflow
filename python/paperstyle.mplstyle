@@ -1,5 +1,6 @@
 figure.figsize: 8,6
 figure.dpi: 150
+savefig.dpi: 150
 savefig.bbox: tight
 
 font.size: 18
@@ -16,3 +17,5 @@ ytick.minor.size: 3
 lines.linewidth: 2
 
 image.origin: lower
+
+mathtext.fontset: cm
